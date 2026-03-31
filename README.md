@@ -76,7 +76,7 @@ rogerio.oliveira@mackenzie.br
 > * [Classificação: Knn](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
 > * [Árvores de Decisão e Seleção de Atributos](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
-> * [**Resumo: Aprendizado Supervisionado: Regressão e Classificação**](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/Resumo_ML_supervisionado_scikit_learn.ipynb)
+> * [**Resumo e Exercício: Aprendizado Supervisionado: Regressão e Classificação**](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/Resumo_ML_supervisionado_scikit_learn.ipynb)
 
 > Aprendizado supervisionado; Tarefas de Classificação e Regressão; Uso de estimadores de scikit-learn; Regressão Linear; Correlação; Coeficiente de Determinação (R2); Acuracidade; Dilema Viés-Variância: sub e sobreajuste (overfitting); Conjuntos de Treinamento; Conjunto de Teste; Métricas de classificação: acuracidade, matriz de confusão, TP e TN
 
