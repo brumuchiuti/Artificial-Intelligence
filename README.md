@@ -53,7 +53,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 * $N_1 = 0.7 A_1 + 0.3 \text{Atividades}$
 > * $\text{Atividades} =   \text{Exercícios}$
 * $N_2 = 0.7 A_2 + 0.3 \text{Atividades}$
-> * $\text{Atividades} =   0.5 \text{Exercícios} + 0.5 \text{Projeto}$
+> * $\text{Atividades} =   0.25 \text{Exercícios} + 0.75 \text{Projeto}$
 * $MF = 0.5 N_1 + 0.5 N_2$
 
 #### Cursos Google 
